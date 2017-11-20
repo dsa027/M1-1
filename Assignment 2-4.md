@@ -38,8 +38,6 @@ __3A.__
 	8. Rewrite from scratch
 	9. Team code from scratch
 
-~~~~~~~~~~~~
-
 __4. "Create a problem-solving example using a roadmap and the process 
 of elimination for narrowing down issues of your own. You already use 
 this skill daily. Break down and explain a problem you solve in your 
